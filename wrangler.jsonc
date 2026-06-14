@@ -1,6 +1,7 @@
 {
   "name": "seo-blog-by-sveltekit",
   "compatibility_date": "2026-06-14",
+  "main": "./.svelte-kit/cloudflare/_worker.js",
   "assets": {
     "directory": "./.svelte-kit/cloudflare"
   }
